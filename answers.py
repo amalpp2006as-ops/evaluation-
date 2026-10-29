@@ -101,10 +101,6 @@ arr=[50, 20, 40, 70, 30, 80]
 print( ArrayChallenge(arr))
 
 
-
-
-
-
 # 5. Word Count: Write a Python program that reads a text file and counts the number of occurrences of each word in the file.
 
 # file = open("evaluation/text.txt", "r")
